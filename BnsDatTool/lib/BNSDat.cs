@@ -47,7 +47,8 @@ namespace BnsDatTool
         // public class BNSDat
         // {
 
-        public string AES_KEY = "ja#n_2@020_compl ";
+        //keys 2020 (NA&EU=ja#n_2@020_compl , RUS=jan_2#0_cpl_bns!") choose one of them by your game version and just replace them
+        public string AES_KEY = "REPLACEME";
 
         public byte[] XOR_KEY = new byte[16] { 164, 159, 216, 179, 246, 142, 57, 194, 45, 224, 97, 117, 92, 75, 26, 7 };
 

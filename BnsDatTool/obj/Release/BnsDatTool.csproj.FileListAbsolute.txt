@@ -1,0 +1,8 @@
+D:\Git\BnsDatTool\BnsDatTool\bin\Release\BnsDatTool.exe.config
+D:\Git\BnsDatTool\BnsDatTool\bin\Release\BnsDatTool.exe
+D:\Git\BnsDatTool\BnsDatTool\bin\Release\BnsDatTool.pdb
+D:\Git\BnsDatTool\BnsDatTool\obj\Release\BnsDatTool.BnsDatTool.resources
+D:\Git\BnsDatTool\BnsDatTool\obj\Release\BnsDatTool.Properties.Resources.resources
+D:\Git\BnsDatTool\BnsDatTool\obj\Release\BnsDatTool.csproj.GenerateResource.cache
+D:\Git\BnsDatTool\BnsDatTool\obj\Release\BnsDatTool.exe
+D:\Git\BnsDatTool\BnsDatTool\obj\Release\BnsDatTool.pdb
